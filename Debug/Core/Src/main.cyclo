@@ -1,0 +1,9 @@
+../Core/Src/main.c:74:5:main	1
+../Core/Src/main.c:165:6:SystemClock_Config	3
+../Core/Src/main.c:202:13:MX_GPIO_Init	1
+../Core/Src/main.c:226:6:accessSharedData	2
+../Core/Src/main.c:250:6:StartDefaultTask	1
+../Core/Src/main.c:268:6:GreenLedTask	1
+../Core/Src/main.c:294:6:RedLedTask	1
+../Core/Src/main.c:319:6:OrangeLedTask	1
+../Core/Src/main.c:335:6:Error_Handler	1
