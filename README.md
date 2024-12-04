@@ -4,6 +4,10 @@ This project demonstrates an STM32 microcontroller application that uses FreeRTO
 
 ---
 
+
+https://github.com/user-attachments/assets/8b9c18cd-f5ee-43aa-9461-0e6ebb3f7187
+
+
 ## Features
 
 1. **Multitasking with FreeRTOS**:
